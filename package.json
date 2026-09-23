@@ -1,0 +1,13 @@
+{
+  "name": "api-vendas",
+  "version": "1.0.0",
+  "description": "API de vendas online com Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19"
+  }
+}
